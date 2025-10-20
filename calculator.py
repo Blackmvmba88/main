@@ -1,6 +1,6 @@
 """
 Simple Calculator Module
-Provides basic arithmetic operations: addition, subtraction, multiplication, and division.
+Provides basic arithmetic operations: addition, subtraction, multiplication, division, and power.
 """
 
 
