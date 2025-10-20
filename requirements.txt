@@ -1,0 +1,7 @@
+# Calculator Application - Requirements
+# This application uses only Python standard library
+# No external dependencies are required
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# coverage>=6.0.0
